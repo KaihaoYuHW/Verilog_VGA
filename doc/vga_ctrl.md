@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_module.png)
+![vga_ctrl_module](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_module.png)
 
 ## signals
 
@@ -26,13 +26,13 @@
 - define a vga cycle of vga_clk = 40ns
 - define pix_data = 16'hffff
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform1.png)
+![vga_ctrl_waveform1](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform1.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform2.png)
+![vga_ctrl_waveform2](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform2.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform3.png)
+![vga_ctrl_waveform3](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform3.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform4.png)
+![vga_ctrl_waveform4](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform4.png)
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform5.png)
+![vga_ctrl_waveform5](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform5.png)
 
