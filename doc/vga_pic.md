@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_pic_module.png)
+![vga_pic_module](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_pic_module.png)
 
 ## signals
 
