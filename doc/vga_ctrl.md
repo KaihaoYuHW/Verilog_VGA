@@ -32,7 +32,7 @@
 
 ![vga_ctrl_waveform3](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform3.png)
 
-![vga_ctrl_waveform4](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform4.png)
+![vga_ctrl_waveform4](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform4.png)
 
-![vga_ctrl_waveform5](E:\IC_design\Verilog\FPGA_S6\vga_colorbar\doc\vga_ctrl_waveform5.png)
+![vga_ctrl_waveform5](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/vga_ctrl_waveform5.png)
 
