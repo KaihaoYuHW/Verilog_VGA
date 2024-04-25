@@ -2,6 +2,13 @@
 
 VGA uses RGB (red, green and blue) mode, which refers to a system representing the colors used on a digital display screen. Red, green and blue can be combined in various proportions to obtain any color in the visible spectrum.
 
+## project structure
+- "doc": the information for each module (see .md)
+
+- "rtl": the implementation of all modules (see .v)
+
+- "sim": all testbenches of each module
+
 ## VGA connector
 
 ![VGA-connector-port](https://github.com/KaihaoYuHW/Verilog_VGA/blob/main/doc/VGA-connector-port.png)
